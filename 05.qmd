@@ -1,53 +1,23 @@
-# Cells
+## **Prelab Activity 5.1**
 
-## Introduction
-
-In this lab you will learn to identify the principal internal and external structures of the cell. The cell is the smallest structural and functional component of a living organism. During this session you will identify organelles from models and diagrams, review cell function, examine the process of cell division, and use the microscope to review several cell types.
-
-## Cellular Identification
-
-- Identify organelles visible through a microscope.
-- Identify a function for each organelle.
-- Human cheek cell: nucleus, nucleolus, plasma membrane.
-- Neuron: endoplasmic reticulum.
-
-## Terms to Learn
-
-- Nucleus
-- Nucleolus
-- Plasma membrane (cell membrane)
-- Cytoplasm
-- Ribosomes
-- Smooth endoplasmic reticulum
-- Rough endoplasmic reticulum
-- Golgi apparatus
-- Vesicles
-- Lysosomes
-- Peroxisomes
-- Mitochondria
-- Centrioles
-- Cytoskeleton filaments
-
-## Prelab Activity 3.1
-
-### Cell Structure and Function
+### **Epidermal Layer**
 
 | Term | Definition |
 |---|---|
-| Cytoplasm | All material inside the cell excluding the nucleus |
-| Cytosol | Fluid portion of the cytoplasm |
-| Organelles | Specialized structures within a cell that perform specific functions |
+| Epidermis | Outermost layer of skin composed of keratinized stratified squamous epithelium |
+| Stratum corneum | Superficial layer of dead, flattened keratinized cells |
+| Stratum lucidum | Clear layer present only in thick skin |
+| Stratum granulosum | Layer where keratinization begins; cells contain granules |
+| Stratum spinosum | Layer of living cells connected by desmosomes |
+| Stratum basale (germinativum) | Deepest epidermal layer; mitotically active |
+| Dermal layer | Layer of connective tissue beneath the epidermis |
 
-### Organelle Types
+### **Dermal Layer**
 
 | Term | Definition |
 |---|---|
-| Rough endoplasmic reticulum | Protein synthesis and transport |
-| Smooth endoplasmic reticulum | Lipid synthesis and detoxification |
-| Golgi apparatus | Modifies and packages proteins |
-| Mitochondrion | ATP (energy) production |
-| Lysosomes | Digestion of cellular waste |
-| Peroxisomes | Breakdown of hydrogen peroxide |
-| Microfilaments | Provide structural support and enable cell movement |
-| Microtubules | Involved in cell division and intracellular transport |
-| Cilia | Move materials across the surface of the cell |
+| Dermis | Connective tissue layer beneath epidermis containing blood vessels and nerves |
+| Papillary layer | Superficial dermis made of areolar connective tissue |
+| Reticular layer | Deep dermis made of dense irregular connective tissue |
+
+| Term | Definition |
