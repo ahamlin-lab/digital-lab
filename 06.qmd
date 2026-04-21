@@ -1,4 +1,57 @@
 # **Skeletal Terms, Bone Histology, and Microanatomy**
+# Cells
+
+## Introduction
+
+In this lab you will learn to identify the principal internal and external structures of the cell. The cell is the smallest structural and functional component of a living organism. During this session you will identify organelles from models and diagrams, review cell function, examine the process of cell division, and use the microscope to review several cell types.
+
+## Cellular Identification
+
+- Identify organelles visible through a microscope.
+- Identify a specific function for each organelle.
+- Human cheek cell: identify the **nucleus**, **nucleolus**, and **plasma membrane**.
+- Neuron: identify the **endoplasmic reticulum**.
+
+## Terms to Learn
+
+- **Nucleus** – contains DNA and controls the activities of the cell  
+- **Nucleolus** – region inside the nucleus that produces ribosomal subunits  
+- **Plasma membrane (cell membrane)** – selectively permeable barrier that surrounds the cell and regulates movement of substances  
+- **Cytoplasm** – all material inside the cell membrane but outside the nucleus  
+- **Ribosomes** – sites of protein synthesis  
+- **Smooth endoplasmic reticulum** – lipid synthesis and detoxification of drugs and toxins  
+- **Rough endoplasmic reticulum** – protein synthesis and transport; studded with ribosomes  
+- **Golgi apparatus** – modifies, sorts, and packages proteins and lipids for transport  
+- **Vesicles** – membrane-bound sacs used for transport and storage  
+- **Lysosomes** – contain digestive enzymes that break down waste and worn-out organelles  
+- **Peroxisomes** – detoxify harmful substances and break down hydrogen peroxide  
+- **Mitochondria** – produce ATP through cellular respiration  
+- **Centrioles** – organize microtubules and form the mitotic spindle during cell division  
+- **Cytoskeleton filaments** – maintain cell shape and allow for movement and transport within the cell  
+
+## Prelab Activity 3.1
+
+### Cell Structure and Function
+
+| Term | Definition |
+|---|---|
+| Cytoplasm | All material inside the cell excluding the nucleus |
+| Cytosol | Fluid portion of the cytoplasm |
+| Organelles | Specialized structures within a cell that perform specific functions |
+
+### Organelle Types
+
+| Term | Definition |
+|---|---|
+| Rough endoplasmic reticulum | Protein synthesis and transport |
+| Smooth endoplasmic reticulum | Lipid synthesis and detoxification |
+| Golgi apparatus | Modifies, sorts, and packages proteins |
+| Mitochondrion | Produces ATP (energy) for the cell |
+| Lysosomes | Digest cellular waste and damaged organelles |
+| Peroxisomes | Break down hydrogen peroxide and detoxify toxins |
+| Microfilaments | Provide structural support and enable cell movement |
+| Microtubules | Involved in cell division and intracellular transport |
+| Cilia | Move materials across the surface of the cell |
 
 ![](images/_page_125_Picture_1.jpeg)
 
