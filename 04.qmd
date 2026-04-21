@@ -1,53 +1,68 @@
-# Cells
+# **Histology/Tissues**
 
-## Introduction
+## **Prelab Activity 4.1**
 
-In this lab you will learn to identify the principal internal and external structures of the cell. The cell is the smallest structural and functional component of a living organism. During this session you will identify organelles from models and diagrams, review cell function, examine the process of cell division, and use the microscope to review several cell types.
+### **Types of tissues**
 
-## Cellular Identification
+- Epithelial – tissue that covers surfaces, lines cavities, and forms glands; functions in protection, absorption, filtration, and secretion  
+- Connective – tissue that supports, binds, and protects other tissues; includes bone, cartilage, blood, and fat  
+- Muscular – tissue that contracts to produce movement  
+- Nervous – tissue that receives, processes, and transmits electrical signals  
 
-- Identify organelles visible through a microscope.
-- Identify a function for each organelle.
-- Human cheek cell: nucleus, nucleolus, plasma membrane.
-- Neuron: endoplasmic reticulum.
+### **Epithelial Tissues**
 
-## Terms to Learn
+- Simple squamous – a single layer of flattened cells specialized for diffusion and filtration  
+- Stratified squamous (keratinized/nonkeratinized) – multiple layers of flattened cells that protect against abrasion; keratinized forms the epidermis, nonkeratinized lines moist cavities  
+- Simple cuboidal – a single layer of cube-shaped cells for secretion and absorption  
+- Stratified cuboidal/columnar – rare tissues with multiple layers that provide protection and secretion  
+- Simple columnar – a single layer of tall cells for absorption and secretion  
+- Pseudostratified columnar epithelium – appears multilayered but is a single layer; often ciliated and contains goblet cells  
+- Transitional epithelium – stratified tissue that stretches and allows distension of urinary organs  
 
-- Nucleus
-- Nucleolus
-- Plasma membrane (cell membrane)
-- Cytoplasm
-- Ribosomes
-- Smooth endoplasmic reticulum
-- Rough endoplasmic reticulum
-- Golgi apparatus
-- Vesicles
-- Lysosomes
-- Peroxisomes
-- Mitochondria
-- Centrioles
-- Cytoskeleton filaments
+### **Epithelial Features**
 
-## Prelab Activity 3.1
+#### **Epithelial layers**
 
-### Cell Structure and Function
+- Simple – one layer of cells  
+- Stratified – two or more layers of cells  
 
-| Term | Definition |
-|---|---|
-| Cytoplasm | All material inside the cell excluding the nucleus |
-| Cytosol | Fluid portion of the cytoplasm |
-| Organelles | Specialized structures within a cell that perform specific functions |
+#### **Surfaces**
 
-### Organelle Types
+- Apical – free surface exposed to a lumen or external environment  
+- Basal – surface attached to the basement membrane  
+- Basement membrane – thin layer anchoring epithelium to underlying connective tissue  
 
-| Term | Definition |
-|---|---|
-| Rough endoplasmic reticulum | Protein synthesis and transport |
-| Smooth endoplasmic reticulum | Lipid synthesis and detoxification |
-| Golgi apparatus | Modifies and packages proteins |
-| Mitochondrion | ATP (energy) production |
-| Lysosomes | Digestion of cellular waste |
-| Peroxisomes | Breakdown of hydrogen peroxide |
-| Microfilaments | Provide structural support and enable cell movement |
-| Microtubules | Involved in cell division and intracellular transport |
-| Cilia | Move materials across the surface of the cell |
+### **Connective Tissue**
+
+- Cartilage – flexible connective tissue providing support and cushioning  
+- Areolar connective tissue – loose connective tissue that wraps and cushions organs  
+- Hyaline cartilage – smooth cartilage providing support and flexibility  
+- Adipose tissue – connective tissue storing fat and providing insulation  
+- Fibrocartilage – tough cartilage providing tensile strength  
+- Elastic cartilage – flexible cartilage maintaining shape  
+- Regular dense connective tissue – parallel collagen fibers providing strong attachment  
+- Irregular dense connective tissue – irregular collagen fibers resisting stress in multiple directions  
+- Bone – hard connective tissue providing support and mineral storage  
+- Blood – fluid connective tissue that transports gases, nutrients, and wastes  
+
+### **Connective Tissue Features**
+
+- Collagen fibers – strong fibers providing tensile strength  
+- Elastin fibers – stretchy fibers allowing recoil  
+- Extracellular matrix – material between cells providing support  
+- Cells – the living components of connective tissue  
+  - Fibroblasts – cells that produce fibers and matrix  
+  - Adipocytes – fat-storing cells  
+  - Chondrocytes – cartilage cells  
+- Lacuna – cavity where bone or cartilage cells reside  
+
+---
+
+## **Lab Activity 4.1 – Identification Table**
+
+| Image | Name | Location | Function |
+|------|------|----------|----------|
+| Fig 4.3 | Simple squamous epithelium | Alveoli of lungs | Diffusion |
+| Fig 4.4 | Simple cuboidal epithelium | Kidney tubules | Secretion & absorption |
+| Fig 4.5 | Simple columnar epithelium | Digestive tract | Absorption |
+| Fig 4.6 | Stratified squamous epithelium | Epidermis | Protection |
