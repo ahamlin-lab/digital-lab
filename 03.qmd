@@ -7,26 +7,26 @@ In this lab you will learn to identify the principal internal and external struc
 ## Cellular Identification
 
 - Identify organelles visible through a microscope.
-- Identify a function for each organelle.
-- Human cheek cell: nucleus, nucleolus, plasma membrane.
-- Neuron: endoplasmic reticulum.
+- Identify a specific function for each organelle.
+- Human cheek cell: identify the nucleus, nucleolus, and plasma membrane.
+- Neuron: identify the endoplasmic reticulum.
 
 ## Terms to Learn
 
-- Nucleus
-- Nucleolus
-- Plasma membrane (cell membrane)
-- Cytoplasm
-- Ribosomes
-- Smooth endoplasmic reticulum
-- Rough endoplasmic reticulum
-- Golgi apparatus
-- Vesicles
-- Lysosomes
-- Peroxisomes
-- Mitochondria
-- Centrioles
-- Cytoskeleton filaments
+- Nucleus – contains DNA and controls the activities of the cell
+- Nucleolus – region inside the nucleus that produces ribosomal subunits
+- Plasma membrane (cell membrane) – selectively permeable barrier that surrounds the cell and regulates movement of substances
+- Cytoplasm – all material inside the cell membrane but outside the nucleus
+- Ribosomes – sites of protein synthesis
+- Smooth endoplasmic reticulum – lipid synthesis and detoxification of drugs and toxins
+- Rough endoplasmic reticulum – protein synthesis and transport; studded with ribosomes
+- Golgi apparatus – modifies, sorts, and packages proteins and lipids for transport
+- Vesicles – membrane-bound sacs used for transport and storage
+- Lysosomes – contain digestive enzymes that break down waste and worn-out organelles
+- Peroxisomes – detoxify harmful substances and break down hydrogen peroxide
+- Mitochondria – produce ATP through cellular respiration
+- Centrioles – organize microtubules and form the mitotic spindle during cell division
+- Cytoskeleton filaments – maintain cell shape and allow for movement and transport within the cell
 
 ## Prelab Activity 3.1
 
@@ -44,10 +44,10 @@ In this lab you will learn to identify the principal internal and external struc
 |---|---|
 | Rough endoplasmic reticulum | Protein synthesis and transport |
 | Smooth endoplasmic reticulum | Lipid synthesis and detoxification |
-| Golgi apparatus | Modifies and packages proteins |
-| Mitochondrion | ATP (energy) production |
-| Lysosomes | Digestion of cellular waste |
-| Peroxisomes | Breakdown of hydrogen peroxide |
-| Microfilaments | Support and movement |
-| Microtubules | Cell division and transport |
-| Cilia | Move materials across cell surface |
+| Golgi apparatus | Modifies, sorts, and packages proteins |
+| Mitochondrion | Produces ATP (energy) for the cell |
+| Lysosomes | Digest cellular waste and damaged organelles |
+| Peroxisomes | Break down hydrogen peroxide and detoxify toxins |
+| Microfilaments | Provide structural support and enable cell movement |
+| Microtubules | Involved in cell division and intracellular transport |
+| Cilia | Move materials across the surface of the cell |
