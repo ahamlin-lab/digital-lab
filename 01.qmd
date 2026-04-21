@@ -56,3 +56,153 @@
 
 | Cavity number | Cavity or Structure |
 |---|---|
+| 1 | Cranial cavity |
+| 2 | Vertebral (spinal) cavity |
+| 3 | Thoracic cavity |
+| 4 | Abdominal cavity |
+| 5 | Pelvic cavity |
+| 6 | Dorsal cavity |
+| 7 | Ventral cavity |
+| a | Pleural cavity |
+| b | Pericardial cavity |
+| c | Mediastinum |
+| d | Diaphragm |
+| e | Abdominopelvic cavity |
+
+## Prelab Activity 1.3
+
+| # | Organ System | Function | Organs |
+|---|---|---|---|
+| 1 | Integumentary | Protection, temperature regulation | Skin, hair, nails |
+| 2 | Skeletal | Support, protection | Bones |
+| 3 | Muscular | Movement | Muscles |
+| 4 | Nervous | Control and communication | Brain, nerves |
+| 5 | Endocrine | Hormone secretion | Thyroid, pituitary |
+| 6 | Cardiovascular | Transport | Heart, blood vessels |
+| 7 | Lymphatic | Immunity | Lymph nodes |
+| 8 | Respiratory | Gas exchange | Lungs |
+| 9 | Digestive | Nutrient absorption | Stomach, intestines |
+| 10 | Urinary | Waste removal | Kidneys |
+| 11a | Reproductive (Male) | Sperm production | Testes |
+| 11b | Reproductive (Female) | Egg production | Ovaries |
+
+## Lab Activity 1.4
+
+1. The elbow is located **proximal** to the wrist.  
+2. The umbilicus is located **inferior** to the sternum.  
+3. The nose is located **medial** to the ears.  
+4. The mouth is located **superior** to the chin.  
+5. A papercut is **superficial**; a nail puncture is **deep**.  
+6. A wound on the elbow is **proximal** to the wrist.  
+
+## Lab Activity 1.6
+
+- Figure 1.10 plane: **Transverse**
+- Figure 1.11 plane: **Sagittal**
+
+## Lab Activity 1.8
+
+### Abdominal Quadrants
+
+| Quadrant | Organs |
+|---|---|
+| Right upper | Liver, gallbladder |
+| Right lower | Appendix, cecum |
+| Left upper | Stomach, spleen |
+| Left lower | Sigmoid colon |
+
+### Abdominal Regions
+
+| Region | Organs |
+|---|---|
+| Left hypochondriac | Spleen |
+| Epigastric | Stomach |
+| Right hypochondriac | Liver |
+| Left lumbar | Descending colon |
+| Umbilical | Small intestine |
+| Right lumbar | Ascending colon |
+| Left iliac | Sigmoid colon |
+| Hypogastric | Urinary bladder |
+| Right iliac | Appendix |
+
+## Post Lab Activity 1.1
+
+### Systems
+
+- Integumentary
+- Integumentary
+- Integumentary
+- Endocrine
+- Respiratory
+- Reproductive
+
+### Homeostasis
+
+- Positive feedback
+- Negative feedback
+
+### Position terms
+
+- Knees are **proximal** to the ankles  
+- Thumbs are **lateral** to the pinky fingers  
+- Spine is **posterior** to the breastbone  
+- Chest is **anterior** to the shoulder blades  
+- Pinky fingers are **medial** to the thumbs  
+- Navel is **anterior** to the lower back  
+- Eyes are **lateral** to the bridge of the nose  
+- Breasts are **superficial** to the lungs  
+- Intestines are **inferior** to the neck  
+- Nose is **superior** to the mouth  
+- Elbows are **proximal** to wrists  
+- Mouth is **inferior** to the forehead  
+- Calf is **posterior** to the shin  
+- Heart is **medial** to the ribcage  
+- Genitals are **medial** to the hips  
+- Ankles are **distal** to the shins  
+- Nipples are **superior** to the knees  
+- Lips are **medial** and **anterior** to the ears  
+- Brain is **deep** to the skull  
+- Thighs are **proximal** to the feet  
+- Lower back is **posterior** to the navel  
+- Ribcage is **superficial** to the lungs  
+- Skin is **superficial** to the muscles  
+
+### Regional terms
+
+- Nasal: nose  
+- Oral: mouth  
+- Cervical: neck  
+- Acromial: shoulder  
+- Axillary: armpit  
+- Abdominal: belly  
+- Brachial: arm  
+- Antecubital: front of elbow  
+- Antebrachial: forearm  
+- Pelvic: pelvis  
+
+### Planes
+
+- Frontal (coronal)
+- Transverse (horizontal)
+
+### Cavities
+
+- Dorsal
+- Dorsal
+- Ventral
+- Ventral
+- Cranial
+- Vertebral
+
+## Post Lab Activity 1.2
+
+1. d  
+2. b  
+3. c  
+4. b  
+5. c  
+6. d  
+7. d  
+8. d  
+9. d  
+10. c  
