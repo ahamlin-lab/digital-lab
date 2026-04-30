@@ -254,7 +254,7 @@
     "href": "03.html#prelab-activity-3.1",
     "title": "3  Cells",
     "section": "",
-    "text": "3.1.1 Cell Structure and Function\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nCytoplasm\nAll material inside the cell between the plasma membrane and the nucleus\n\n\nCytosol\nFluid portion of the cytoplasm\n\n\nOrganelles\nSpecialized structures within a cell that perform specific functions\n\n\n\n\n\n3.1.2 Organelle Types\n\n\n\nTerm\nDefinition\n\n\n\n\nRough Endoplasmic Reticulum\nProtein synthesis and modification\n\n\nSmooth Endoplasmic Reticulum\nLipid synthesis and detoxification\n\n\nGolgi apparatus\nModifies, packages, and ships proteins\n\n\nMitochondrion\nProduces ATP (energy)\n\n\nLysosomes\nDigest cellular waste\n\n\nPeroxisomes\nBreak down hydrogen peroxide and toxins\n\n\nMicrofilaments\nStructural support and movement\n\n\nMicrotubules\nCell division and intracellular transport\n\n\nCilia\nMove substances across cell surfaces\n\n\nFlagella\nMove the cell itself\n\n\nNucleus\nContains DNA; controls cell activities\n\n\nNucleolus\nProduces ribosomal subunits\n\n\n\n\n\n\n3.1.3 Membrane Transport\n\nPassive Transport – movement across the membrane without energy input\n\nActive Transport – movement across the membrane requiring ATP\n\nDiffusion – movement of particles from high to low concentration\n\nOsmosis – diffusion of water across a semipermeable membrane\n\nCell Cycle – life cycle of a cell from formation to division\n\nInterphase – period of growth and DNA replication\n\nMitosis – division of the nucleus\n\n\n\n\n3.1.4 Stages of Interphase\n\nInterphase – growth and DNA preparation stage\n\nG1 phase – cell growth and normal metabolic activity\n\nS phase – DNA synthesis\n\nG2 phase – final preparations for mitosis",
+    "text": "3.1.1 Cell Structure and Function\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nCytoplasm\nAll material inside the cell between the plasma membrane and the nucleus\n\n\nCytosol\nFluid portion of the cytoplasm\n\n\nOrganelles\nSpecialized structures within a cell that perform specific functions\n\n\n\n\n\n3.1.2 Organelle Types\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nRough Endoplasmic Reticulum\nProtein synthesis and modification\n\n\nSmooth Endoplasmic Reticulum\nLipid synthesis and detoxification\n\n\nGolgi apparatus\nModifies, packages, and ships proteins\n\n\nMitochondrion\nProduces ATP (energy)\n\n\nLysosomes\nDigest cellular waste\n\n\nPeroxisomes\nBreak down hydrogen peroxide and toxins\n\n\nMicrofilaments\nStructural support and movement\n\n\nMicrotubules\nCell division and intracellular transport\n\n\nCilia\nMove substances across cell surfaces\n\n\nFlagella\nMove the cell itself\n\n\nNucleus\nContains DNA; controls cell activities\n\n\nNucleolus\nProduces ribosomal subunits\n\n\n\n\n\n\n3.1.3 Membrane Transport\n\nPassive Transport – movement across the membrane without energy input\n\nActive Transport – movement across the membrane requiring ATP\n\nDiffusion – movement of particles from high to low concentration\n\nOsmosis – diffusion of water across a semipermeable membrane\n\nCell Cycle – life cycle of a cell from formation to division\n\nInterphase – period of growth and DNA replication\n\nMitosis – division of the nucleus\n\n\n\n\n3.1.4 Stages of Interphase\n\nInterphase – growth and DNA preparation stage\n\nG1 phase – cell growth and normal metabolic activity\n\nS phase – DNA synthesis\n\nG2 phase – final preparations for mitosis",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>**Cells**</span>"
     ]
@@ -264,7 +264,7 @@
     "href": "03.html#prelab-activity-3.2",
     "title": "3  Cells",
     "section": "3.2 Prelab Activity 3.2",
-    "text": "3.2 Prelab Activity 3.2\n\n3.2.1 Table 3.1 – Mitosis Events\n\n\n\nStage\nEvents\nAppearance\n\n\n\n\nProphase\nChromatin condenses, spindle forms\nVisible chromosomes\n\n\nMetaphase\nChromosomes align at equator\nChromosomes centered\n\n\nAnaphase\nSister chromatids separate\nChromosomes pull apart\n\n\nTelophase\nNuclear envelopes reform\nTwo nuclei visible\n\n\nCytokinesis\nCytoplasm divides\nTwo separate cells",
+    "text": "3.2 Prelab Activity 3.2\n\n3.2.1 Table 3.1 – Mitosis Events\n\n\n\n\n\n\n\n\nStage\nEvents\nAppearance\n\n\n\n\nProphase\nChromatin condenses, spindle forms\nVisible chromosomes\n\n\nMetaphase\nChromosomes align at equator\nChromosomes centered\n\n\nAnaphase\nSister chromatids separate\nChromosomes pull apart\n\n\nTelophase\nNuclear envelopes reform\nTwo nuclei visible\n\n\nCytokinesis\nCytoplasm divides\nTwo separate cells",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>**Cells**</span>"
     ]
@@ -372,41 +372,181 @@
   {
     "objectID": "04.html",
     "href": "04.html",
-    "title": "4  Histology/Tissues",
+    "title": "4  Histology / Tissues",
     "section": "",
-    "text": "4.1 Prelab Activity 4.1",
+    "text": "4.1 Objectives\nimages/_page_75_Picture_1.jpeg\nFigure 4.1 Slide Underneath a Microscope.\nDuring this lab you will use the microscope and diagrams to review the four tissue types as well as familiarize yourself with their location and function in the body.\nUpon completion of this lab session, you should be able to:",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology/Tissues**</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology / Tissues**</span>"
+    ]
+  },
+  {
+    "objectID": "04.html#objectives",
+    "href": "04.html#objectives",
+    "title": "4  Histology / Tissues",
+    "section": "",
+    "text": "Name a tissue as epithelial, connective, muscular, or nervous.\nExplain how tissue structure supports function.\nDescribe structure, function, and location of tissues.\nIdentify epithelial, connective, muscle, and nervous tissues on slides.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology / Tissues**</span>"
     ]
   },
   {
     "objectID": "04.html#prelab-activity-4.1",
     "href": "04.html#prelab-activity-4.1",
-    "title": "4  Histology/Tissues",
-    "section": "",
-    "text": "4.1.1 Types of tissues\n\nEpithelial – tissue that covers surfaces, lines cavities, and forms glands; functions in protection, absorption, filtration, and secretion\n\nConnective – tissue that supports, binds, and protects other tissues; includes bone, cartilage, blood, and fat\n\nMuscular – tissue that contracts to produce movement\n\nNervous – tissue that receives, processes, and transmits electrical signals\n\n\n\n4.1.2 Epithelial Tissues\n\nSimple squamous – a single layer of flattened cells specialized for diffusion and filtration\n\nStratified squamous (keratinized/nonkeratinized) – multiple layers of flattened cells that protect against abrasion; keratinized forms the epidermis, nonkeratinized lines moist cavities\n\nSimple cuboidal – a single layer of cube-shaped cells for secretion and absorption\n\nStratified cuboidal/columnar – rare tissues with multiple layers that provide protection and secretion\n\nSimple columnar – a single layer of tall cells for absorption and secretion\n\nPseudostratified columnar epithelium – appears multilayered but is a single layer; often ciliated and contains goblet cells\n\nTransitional epithelium – stratified tissue that stretches and allows distension of urinary organs\n\n\n\n4.1.3 Epithelial Features\n\n4.1.3.1 Epithelial layers\n\nSimple – one layer of cells\n\nStratified – two or more layers of cells\n\n\n\n4.1.3.2 Surfaces\n\nApical – free surface exposed to a lumen or external environment\n\nBasal – surface attached to the basement membrane\n\nBasement membrane – thin layer anchoring epithelium to underlying connective tissue\n\n\n\n\n4.1.4 Connective Tissue\n\nCartilage – flexible connective tissue providing support and cushioning\n\nAreolar connective tissue – loose connective tissue that wraps and cushions organs\n\nHyaline cartilage – smooth cartilage providing support and flexibility\n\nAdipose tissue – connective tissue storing fat and providing insulation\n\nFibrocartilage – tough cartilage providing tensile strength\n\nElastic cartilage – flexible cartilage maintaining shape\n\nRegular dense connective tissue – parallel collagen fibers providing strong attachment\n\nIrregular dense connective tissue – irregular collagen fibers resisting stress in multiple directions\n\nBone – hard connective tissue providing support and mineral storage\n\nBlood – fluid connective tissue that transports gases, nutrients, and wastes\n\n\n\n4.1.5 Connective Tissue Features\n\nCollagen fibers – strong fibers providing tensile strength\n\nElastin fibers – stretchy fibers allowing recoil\n\nExtracellular matrix – material between cells providing support\n\nCells – the living components of connective tissue\n\nFibroblasts – cells that produce fibers and matrix\n\nAdipocytes – fat-storing cells\n\nChondrocytes – cartilage cells\n\n\nLacuna – cavity where bone or cartilage cells reside",
+    "title": "4  Histology / Tissues",
+    "section": "4.2 Prelab Activity 4.1",
+    "text": "4.2 Prelab Activity 4.1\n\n4.2.1 Types of Tissues\n\nEpithelial – tissue that covers surfaces, lines cavities, and forms glands; functions in protection, absorption, filtration, and secretion\n\nConnective – tissue that supports, binds, and connects other tissues\n\nMuscular – tissue that contracts to produce movement\n\nNervous – tissue that receives and transmits electrical impulses\n\n\n\n\n4.2.2 Epithelial Tissues\n\nSimple squamous – single layer of flat cells for diffusion and filtration\n\nStratified squamous (keratinized/nonkeratinized) – multiple layers for protection\n\nSimple cuboidal – secretion and absorption\n\nStratified cuboidal/columnar – rare protective tissues\n\nSimple columnar – absorption and secretion\n\nPseudostratified columnar epithelium – ciliated; mucus movement\n\nTransitional epithelium – stretchy epithelium of urinary organs\n\n\n\n\n4.2.3 Epithelial Features\nLayers - Simple – one layer\n- Stratified – multiple layers\nSurfaces - Apical – free surface\n- Basal – attached surface\n- Basement membrane – anchors epithelium to connective tissue\n\n\n\n4.2.4 Connective Tissue\n\nCartilage – flexible support\n\nAreolar connective tissue – wraps and cushions\n\nHyaline cartilage – smooth support\n\nAdipose tissue – fat storage, insulation\n\nFibrocartilage – tensile strength\n\nElastic cartilage – flexible support\n\nDense regular CT – parallel collagen fibers\n\nDense irregular CT – multidirectional strength\n\nBone – support and mineral storage\n\nBlood – transport medium\n\n\n\n\n4.2.5 Connective Tissue Features\n\nCollagen fibers – tensile strength\n\nElastin fibers – elasticity\n\nExtracellular matrix – support and medium\n\nFibroblasts – fiber production\n\nAdipocytes – fat storage\n\nChondrocytes – cartilage cells\n\nLacuna – cavity housing cells",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology/Tissues**</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology / Tissues**</span>"
     ]
   },
   {
     "objectID": "04.html#lab-activity-4.1-identification-table",
     "href": "04.html#lab-activity-4.1-identification-table",
-    "title": "4  Histology/Tissues",
-    "section": "4.2 Lab Activity 4.1 – Identification Table",
-    "text": "4.2 Lab Activity 4.1 – Identification Table\n\n\n\n\n\n\n\n\n\nImage\nName\nLocation\nFunction\n\n\n\n\nFig 4.3\nSimple squamous epithelium\nAlveoli of lungs\nDiffusion\n\n\nFig 4.4\nSimple cuboidal epithelium\nKidney tubules\nSecretion & absorption\n\n\nFig 4.5\nSimple columnar epithelium\nDigestive tract\nAbsorption\n\n\nFig 4.6\nStratified squamous epithelium\nEpidermis\nProtection",
+    "title": "4  Histology / Tissues",
+    "section": "4.3 Lab Activity 4.1 – Identification Table",
+    "text": "4.3 Lab Activity 4.1 – Identification Table\n\n\n\n\n\n\n\n\n\nImage\nName\nLocation\nFunction\n\n\n\n\nFig 4.3\nSimple squamous epithelium\nAlveoli\nDiffusion\n\n\nFig 4.4\nSimple cuboidal epithelium\nKidney tubules\nSecretion & absorption\n\n\nFig 4.5\nSimple columnar epithelium\nDigestive tract\nAbsorption\n\n\nFig 4.6\nStratified squamous epithelium\nEpidermis\nProtection\n\n\nFig 4.7\nPseudostratified columnar epithelium\nTrachea\nMoves mucus\n\n\nFig 4.8\nTransitional epithelium\nUrinary bladder\nStretching",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology/Tissues**</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology / Tissues**</span>"
+    ]
+  },
+  {
+    "objectID": "04.html#lab-activity-4.2-microscope-work",
+    "href": "04.html#lab-activity-4.2-microscope-work",
+    "title": "4  Histology / Tissues",
+    "section": "4.4 Lab Activity 4.2 – Microscope Work",
+    "text": "4.4 Lab Activity 4.2 – Microscope Work\n\n\n\nTissue\nMagnification\nLocation\n\n\n\n\nSimple squamous\n400x\nAlveoli\n\n\nSimple cuboidal\n400x\nKidney tubules\n\n\nSimple columnar\n400x\nSmall intestine\n\n\nTransitional\n400x\nUrinary bladder\n\n\nStratified squamous\n400x\nEpidermis",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology / Tissues**</span>"
+    ]
+  },
+  {
+    "objectID": "04.html#lab-activity-4.4-connective-tissue",
+    "href": "04.html#lab-activity-4.4-connective-tissue",
+    "title": "4  Histology / Tissues",
+    "section": "4.5 Lab Activity 4.4 – Connective Tissue",
+    "text": "4.5 Lab Activity 4.4 – Connective Tissue\n\n\n\nTissue\nMagnification\nLocation\n\n\n\n\nAreolar\n400x\nBeneath epithelium\n\n\nAdipose\n400x\nHypodermis\n\n\nDense regular CT\n400x\nTendons\n\n\nBlood\n400x\nBlood vessels\n\n\nHyaline cartilage\n400x\nTrachea\n\n\nFibrocartilage\n400x\nIntervertebral discs\n\n\nElastic cartilage\n400x\nExternal ear\n\n\nBone\n400x\nSkeleton",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology / Tissues**</span>"
+    ]
+  },
+  {
+    "objectID": "04.html#post-lab-activity-4.1",
+    "href": "04.html#post-lab-activity-4.1",
+    "title": "4  Histology / Tissues",
+    "section": "4.6 Post Lab Activity 4.1",
+    "text": "4.6 Post Lab Activity 4.1\n\nEpithelium is classified by layers and cell shape\nMajor tissues: epithelial, connective, muscle, nervous\nThe epithelial tissue contains an apical surface",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology / Tissues**</span>"
+    ]
+  },
+  {
+    "objectID": "04.html#post-lab-activity-4.2",
+    "href": "04.html#post-lab-activity-4.2",
+    "title": "4  Histology / Tissues",
+    "section": "4.7 Post Lab Activity 4.2",
+    "text": "4.7 Post Lab Activity 4.2\n\nSimple squamous epithelium – alveoli\n\nSimple cuboidal epithelium – kidney tubules\n\nStratified squamous epithelium – epidermis\n\nAreolar connective tissue – beneath epithelium\n\nAdipose tissue – hypodermis\n\nBone – skeletal system",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology / Tissues**</span>"
+    ]
+  },
+  {
+    "objectID": "04.html#post-lab-activity-4.3-crossword-answers",
+    "href": "04.html#post-lab-activity-4.3-crossword-answers",
+    "title": "4  Histology / Tissues",
+    "section": "4.8 Post Lab Activity 4.3 – Crossword Answers",
+    "text": "4.8 Post Lab Activity 4.3 – Crossword Answers\nAcross - Simple squamous epithelium - Neuron - Glial cell - Stratified squamous epithelium - Simple cuboidal epithelium - Skeletal muscle\nDown - Dense regular connective tissue - Loose connective tissue - Bone - Hyaline cartilage - Cardiac muscle - Smooth muscle ``",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>**Histology / Tissues**</span>"
     ]
   },
   {
     "objectID": "05.html",
     "href": "05.html",
-    "title": "5  Prelab Activity 5.1",
+    "title": "5  Integumentary System",
     "section": "",
-    "text": "5.0.1 Epidermal Layer\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nEpidermis\nOutermost layer of skin composed of keratinized stratified squamous epithelium\n\n\nStratum corneum\nSuperficial layer of dead, flattened keratinized cells\n\n\nStratum lucidum\nClear layer present only in thick skin\n\n\nStratum granulosum\nLayer where keratinization begins; cells contain granules\n\n\nStratum spinosum\nLayer of living cells connected by desmosomes\n\n\nStratum basale (germinativum)\nDeepest epidermal layer; mitotically active\n\n\nDermal layer\nLayer of connective tissue beneath the epidermis\n\n\n\n\n\n5.0.2 Dermal Layer\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nDermis\nConnective tissue layer beneath epidermis containing blood vessels and nerves\n\n\nPapillary layer\nSuperficial dermis made of areolar connective tissue\n\n\nReticular layer\nDeep dermis made of dense irregular connective tissue\n\n\n\nTerm | Definition |",
+    "text": "5.1 Course Objectives\nFigure 5.1 The Integumentary System.\nAt the conclusion of this lab, you should be able to:",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Prelab Activity 5.1**</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Integumentary System**</span>"
+    ]
+  },
+  {
+    "objectID": "05.html#course-objectives",
+    "href": "05.html#course-objectives",
+    "title": "5  Integumentary System",
+    "section": "",
+    "text": "Describe the structure of the skin.\nDescribe the functions of the integumentary system.\nDifferentiate between the layers of the epidermis.\nIdentify the components of the dermis and their function.\nIdentify layers of the integumentary system on a model or diagram.\nIdentify and describe the function of integumentary structures.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Integumentary System**</span>"
+    ]
+  },
+  {
+    "objectID": "05.html#prelab-activity-5.1",
+    "href": "05.html#prelab-activity-5.1",
+    "title": "5  Integumentary System",
+    "section": "5.2 Prelab Activity 5.1",
+    "text": "5.2 Prelab Activity 5.1\n\n5.2.1 Epidermal Layer\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nEpidermis\nOutermost skin layer made of keratinized stratified squamous epithelium\n\n\nStratum corneum\nSuperficial layer of dead keratinized cells\n\n\nStratum lucidum\nClear layer found only in thick skin\n\n\nStratum granulosum\nKeratinization begins\n\n\nStratum spinosum\nProvides strength and flexibility\n\n\nStratum basale (germinativum)\nDeepest epidermal layer; mitosis occurs\n\n\nDermal layer\nLayer beneath epidermis composed of connective tissue\n\n\n\n\n\n5.2.2 Dermal Layer\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nDermis\nConnective tissue layer containing glands, vessels, and nerves\n\n\nPapillary layer\nSuperficial layer of areolar connective tissue\n\n\nReticular layer\nDeep layer of dense irregular connective tissue\n\n\n\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nSubcutaneous layer (Hypodermis)\nAnchors skin to underlying tissues; fat storage\n\n\n\n\n\n5.2.3 Integumentary Structures\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nDermal papillae\nIncrease surface area between epidermis and dermis\n\n\nHair shaft\nPortion of hair above skin\n\n\nHair root\nPortion below skin\n\n\nHair follicle\nTube that surrounds hair root\n\n\nPore\nOpening for sweat\n\n\nArrector pili muscle\nRaises hair\n\n\nSebaceous gland\nProduces sebum\n\n\nMerocrine sweat gland\nThermoregulation\n\n\nApocrine sweat gland\nProduces thicker sweat\n\n\nFree nerve ending\nPain and temperature\n\n\nMeissner’s corpuscle\nLight touch\n\n\nPacinian corpuscle\nPressure\n\n\nKeratinocyte\nProduces keratin\n\n\nMelanocyte\nProduces melanin",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Integumentary System**</span>"
+    ]
+  },
+  {
+    "objectID": "05.html#prelab-activity-5.2",
+    "href": "05.html#prelab-activity-5.2",
+    "title": "5  Integumentary System",
+    "section": "5.3 Prelab Activity 5.2",
+    "text": "5.3 Prelab Activity 5.2\n\n5.3.1 Label the Layers\n\n4: Epidermis\n\n5: Dermis\n\n6: Hypodermis\n\n\n\n5.3.2 Accessory Structures\n\n15: Hair follicle\n\n21: Pacinian corpuscle\n\n14: Sebaceous gland\n\n20: Merocrine (eccrine) sweat gland",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Integumentary System**</span>"
+    ]
+  },
+  {
+    "objectID": "05.html#table-5.1-epidermal-layers",
+    "href": "05.html#table-5.1-epidermal-layers",
+    "title": "5  Integumentary System",
+    "section": "5.4 Table 5.1 – Epidermal Layers",
+    "text": "5.4 Table 5.1 – Epidermal Layers\n\n\n\nLayer\nMajor Features\n\n\n\n\nStratum corneum\nProtection, waterproof\n\n\nStratum lucidum\nThick skin only\n\n\nStratum granulosum\nKeratin formation\n\n\nStratum spinosum\nDesmosomes\n\n\nStratum basale\nCell division",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Integumentary System**</span>"
+    ]
+  },
+  {
+    "objectID": "05.html#lab-activity-5.4-dermal-structures-and-functions",
+    "href": "05.html#lab-activity-5.4-dermal-structures-and-functions",
+    "title": "5  Integumentary System",
+    "section": "5.5 Lab Activity 5.4 – Dermal Structures and Functions",
+    "text": "5.5 Lab Activity 5.4 – Dermal Structures and Functions\n\n\n\nStructure\nFunction\n\n\n\n\nDermal papillae\nNutrient diffusion\n\n\nPore\nReleases sweat\n\n\nArrector pili muscle\nGoosebumps\n\n\nSebaceous gland\nLubricates skin\n\n\nMerocrine gland\nCooling\n\n\nApocrine gland\nScent\n\n\nFree nerve ending\nPain\n\n\nMeissner’s corpuscle\nTouch\n\n\nPacinian corpuscle\nPressure\n\n\nKeratinocyte\nKeratin production\n\n\nMelanocyte\nUV protection",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Integumentary System**</span>"
+    ]
+  },
+  {
+    "objectID": "05.html#post-lab-activity-5.1",
+    "href": "05.html#post-lab-activity-5.1",
+    "title": "5  Integumentary System",
+    "section": "5.6 Post Lab Activity 5.1",
+    "text": "5.6 Post Lab Activity 5.1\n\nLayers of the dermis: Papillary; Reticular\n\nMajor glands: Sebaceous, eccrine, apocrine\n\nProtective functions: Barrier, UV protection, water retention",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Integumentary System**</span>"
+    ]
+  },
+  {
+    "objectID": "05.html#post-lab-activity-5.4-check-your-understanding",
+    "href": "05.html#post-lab-activity-5.4-check-your-understanding",
+    "title": "5  Integumentary System",
+    "section": "5.7 Post Lab Activity 5.4 – Check Your Understanding",
+    "text": "5.7 Post Lab Activity 5.4 – Check Your Understanding\nLayers cut (superficial to deep):\nEpidermis → Dermis → Hypodermis\nOrange skin condition:\nDietary carotene accumulation (harmless).\nThermoregulation:\nSweating and vasodilation.\nMelanoma risk:\nReduced melanin increases UV damage.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Integumentary System**</span>"
+    ]
+  },
+  {
+    "objectID": "05.html#post-lab-activity-5.6",
+    "href": "05.html#post-lab-activity-5.6",
+    "title": "5  Integumentary System",
+    "section": "5.8 Post Lab Activity 5.6",
+    "text": "5.8 Post Lab Activity 5.6\nSkin epithelium:\nKeratinized stratified squamous epithelium\nFive epidermal layers (thick skin): - Stratum corneum\n- Stratum lucidum (absent in thin skin)\n- Stratum granulosum\n- Stratum spinosum\n- Stratum basale\nFunctions of integumentary system: - Protection\n- Temperature regulation\n- Sensation\n- Vitamin D synthesis",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>**Integumentary System**</span>"
     ]
   },
   {
@@ -424,7 +564,7 @@
     "href": "06.html#prelab-activity-6.1",
     "title": "6  Skeletal Terms, Bone Histology, and Microanatomy",
     "section": "",
-    "text": "6.1.1 Skeleton\n\nAxial – the portion of the skeleton forming the central axis of the body; includes the skull, vertebral column, and thoracic cage\n\nAppendicular skeleton – the portion of the skeleton consisting of the limbs and the girdles that attach them to the axial skeleton\n\n\n\n6.1.2 General Structure of Long Bones\n\nEpiphysis – enlarged ends of a long bone containing spongy bone and red marrow\n\nDiaphysis – shaft of a long bone composed mainly of compact bone\n\nCompact bone – dense bone tissue forming the outer layer of bones\n\nSpongy bone – porous bone tissue composed of trabeculae; found at bone ends\n\nHyaline (articular) cartilage – smooth cartilage covering the epiphyses; reduces friction\n\nPeriosteum – fibrous membrane covering the outer surface of bone\n\nBone processes – projections where muscles and ligaments attach\n\nMedullary cavity – hollow cavity in the diaphysis containing marrow\n\nYellow marrow – fat-storing tissue in adult bones\n\nRed marrow – tissue where blood cell formation occurs\n\nEpiphyseal plate – cartilage growth plate in immature bones\n\nEndosteum (simple squamous) – inner bone lining covering marrow cavity\n\n\n\n6.1.3 Bone Tissue\n\n\n\nTerm\nDefinition\n\n\n\n\nOsteocytes\nMature bone cells that maintain bone tissue\n\n\nMatrix\nExtracellular substance made of collagen and minerals\n\n\nCollagen fibers\nProvide tensile strength\n\n\nCalcium phosphate\nMineral salts that harden bone\n\n\nOsteoblasts\nBone-forming cells\n\n\nOsteoclasts\nBone-resorbing cells\n\n\n\n\n\n6.1.4 Bone Classification\n\n\n\nTerm\nDefinition\n\n\n\n\nLong bones\nBones longer than wide; act as levers\n\n\nShort bones\nCube-shaped bones providing stability\n\n\nFlat bones\nThin, flat bones that protect organs\n\n\nIrregular bones\nBones with complex shapes\n\n\nSesamoid bones\nBones embedded in tendons",
+    "text": "6.1.1 Skeleton\n\nAxial – the portion of the skeleton forming the central axis of the body; includes the skull, vertebral column, and thoracic cage\n\nAppendicular skeleton – the portion of the skeleton consisting of the limbs and the girdles that attach them to the axial skeleton\n\n\n\n6.1.2 General Structure of Long Bones\n\nEpiphysis – enlarged ends of a long bone containing spongy bone and red marrow\n\nDiaphysis – shaft of a long bone composed mainly of compact bone\n\nCompact bone – dense bone tissue forming the outer layer of bones\n\nSpongy bone – porous bone tissue composed of trabeculae; found at bone ends\n\nHyaline (articular) cartilage – smooth cartilage covering the epiphyses; reduces friction\n\nPeriosteum – fibrous membrane covering the outer surface of bone\n\nBone processes – projections where muscles and ligaments attach\n\nMedullary cavity – hollow cavity in the diaphysis containing marrow\n\nYellow marrow – fat-storing tissue in adult bones\n\nRed marrow – tissue where blood cell formation occurs\n\nEpiphyseal plate – cartilage growth plate in immature bones\n\nEndosteum (simple squamous) – inner bone lining covering marrow cavity\n\n\n\n6.1.3 Bone Tissue\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nOsteocytes\nMature bone cells that maintain bone tissue\n\n\nMatrix\nExtracellular substance made of collagen and minerals\n\n\nCollagen fibers\nProvide tensile strength\n\n\nCalcium phosphate\nMineral salts that harden bone\n\n\nOsteoblasts\nBone-forming cells\n\n\nOsteoclasts\nBone-resorbing cells\n\n\n\n\n\n6.1.4 Bone Classification\n\n\n\nTerm\nDefinition\n\n\n\n\nLong bones\nBones longer than wide; act as levers\n\n\nShort bones\nCube-shaped bones providing stability\n\n\nFlat bones\nThin, flat bones that protect organs\n\n\nIrregular bones\nBones with complex shapes\n\n\nSesamoid bones\nBones embedded in tendons",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>**Skeletal Terms, Bone Histology, and Microanatomy**</span>"
     ]
