@@ -4,173 +4,174 @@
 
 ### **Skeleton**
 
-- Axial – the portion of the skeleton forming the central axis of the body; includes the skull, vertebral column, and thoracic cage  
-- Appendicular skeleton – the portion of the skeleton consisting of the limbs and the girdles that attach them to the axial skeleton  
+-   Axial – the portion of the skeleton forming the central axis of the body; includes the skull, vertebral column, and thoracic cage\
+-   Appendicular skeleton – the portion of the skeleton consisting of the limbs and the girdles that attach them to the axial skeleton
 
 ### **General Structure of Long Bones**
 
-- Epiphysis – enlarged ends of a long bone containing spongy bone and red marrow  
-- Diaphysis – shaft of a long bone composed mainly of compact bone  
-- Compact bone – dense bone tissue forming the outer layer of bones  
-- Spongy bone – porous bone tissue composed of trabeculae; found at bone ends  
-- Hyaline (articular) cartilage – smooth cartilage covering the epiphyses; reduces friction  
-- Periosteum – fibrous membrane covering the outer surface of bone  
-- Bone processes – projections where muscles and ligaments attach  
-- Medullary cavity – hollow cavity in the diaphysis containing marrow  
-- Yellow marrow – fat-storing tissue in adult bones  
-- Red marrow – tissue where blood cell formation occurs  
-- Epiphyseal plate – cartilage growth plate in immature bones  
-- Endosteum (simple squamous) – inner bone lining covering marrow cavity  
+-   Epiphysis – enlarged ends of a long bone containing spongy bone and red marrow\
+-   Diaphysis – shaft of a long bone composed mainly of compact bone\
+-   Compact bone – dense bone tissue forming the outer layer of bones\
+-   Spongy bone – porous bone tissue composed of trabeculae; found at bone ends\
+-   Hyaline (articular) cartilage – smooth cartilage covering the epiphyses; reduces friction\
+-   Periosteum – fibrous membrane covering the outer surface of bone\
+-   Bone processes – projections where muscles and ligaments attach\
+-   Medullary cavity – hollow cavity in the diaphysis containing marrow\
+-   Yellow marrow – fat-storing tissue in adult bones\
+-   Red marrow – tissue where blood cell formation occurs\
+-   Epiphyseal plate – cartilage growth plate in immature bones\
+-   Endosteum (simple squamous) – inner bone lining covering marrow cavity
 
 ### **Bone Tissue**
 
-| Term | Definition |
-|---|---|
-| Osteocytes | Mature bone cells that maintain bone tissue |
-| Matrix | Extracellular substance made of collagen and minerals |
-| Collagen fibers | Provide tensile strength |
-| Calcium phosphate | Mineral salts that harden bone |
-| Osteoblasts | Bone-forming cells |
-| Osteoclasts | Bone-resorbing cells |
+| Term              | Definition                                            |
+|-------------------|-------------------------------------------------------|
+| Osteocytes        | Mature bone cells that maintain bone tissue           |
+| Matrix            | Extracellular substance made of collagen and minerals |
+| Collagen fibers   | Provide tensile strength                              |
+| Calcium phosphate | Mineral salts that harden bone                        |
+| Osteoblasts       | Bone-forming cells                                    |
+| Osteoclasts       | Bone-resorbing cells                                  |
 
 ### **Bone Classification**
 
-| Term | Definition |
-|---|---|
-| Long bones | Bones longer than wide; act as levers |
-| Short bones | Cube-shaped bones providing stability |
-| Flat bones | Thin, flat bones that protect organs |
-| Irregular bones | Bones with complex shapes |
-| Sesamoid bones | Bones embedded in tendons |
+| Term            | Definition                            |
+|-----------------|---------------------------------------|
+| Long bones      | Bones longer than wide; act as levers |
+| Short bones     | Cube-shaped bones providing stability |
+| Flat bones      | Thin, flat bones that protect organs  |
+| Irregular bones | Bones with complex shapes             |
+| Sesamoid bones  | Bones embedded in tendons             |
 
----
+------------------------------------------------------------------------
 
 ## **Prelab Activity 6.2**
 
 ### **Table 6.1 – Identify the Bones or Regions**
 
-| Number | Name | Division |
-|---|---|---|
-| 1 | Cranium | Axial |
-| 2 | Mandible | Axial |
-| 3 | Clavicle | Appendicular |
-| 4 | Scapula | Appendicular |
-| 5 | Sternum | Axial |
-| 6 | Ribs | Axial |
-| 7 | Humerus | Appendicular |
-| 8 | Radius | Appendicular |
-| 9 | Ulna | Appendicular |
-| 10 | Carpals | Appendicular |
-| 11 | Metacarpals | Appendicular |
-| 12 | Phalanges (hand) | Appendicular |
-| 13 | Vertebral column | Axial |
-| 14 | Pelvis | Appendicular |
-| 15 | Femur | Appendicular |
-| 16 | Patella | Appendicular |
-| 17 | Tibia | Appendicular |
-| 18 | Fibula | Appendicular |
-| 19 | Tarsals | Appendicular |
-| 20 | Metatarsals | Appendicular |
-| 21 | Phalanges (foot) | Appendicular |
-| 22 | Sacrum | Axial |
-| 23 | Coccyx | Axial |
-| 26 | Cervical vertebrae | Axial |
+| Number | Name               | Division     |
+|--------|--------------------|--------------|
+| 1      | Cranium            | Axial        |
+| 2      | Mandible           | Axial        |
+| 3      | Clavicle           | Appendicular |
+| 4      | Scapula            | Appendicular |
+| 5      | Sternum            | Axial        |
+| 6      | Ribs               | Axial        |
+| 7      | Humerus            | Appendicular |
+| 8      | Radius             | Appendicular |
+| 9      | Ulna               | Appendicular |
+| 10     | Carpals            | Appendicular |
+| 11     | Metacarpals        | Appendicular |
+| 12     | Phalanges (hand)   | Appendicular |
+| 13     | Vertebral column   | Axial        |
+| 14     | Pelvis             | Appendicular |
+| 15     | Femur              | Appendicular |
+| 16     | Patella            | Appendicular |
+| 17     | Tibia              | Appendicular |
+| 18     | Fibula             | Appendicular |
+| 19     | Tarsals            | Appendicular |
+| 20     | Metatarsals        | Appendicular |
+| 21     | Phalanges (foot)   | Appendicular |
+| 22     | Sacrum             | Axial        |
+| 23     | Coccyx             | Axial        |
+| 26     | Cervical vertebrae | Axial        |
 
----
+------------------------------------------------------------------------
 
 ## **Lab Activity 6.1**
 
-| Bone | Classification |
-|---|---|
-| Sacrum | Axial |
-| Humerus | Appendicular |
-| Phalanges | Appendicular |
-| Cervical vertebrae | Axial |
-| Cranium | Axial |
-| Scapula | Appendicular |
+| Bone               | Classification |
+|--------------------|----------------|
+| Sacrum             | Axial          |
+| Humerus            | Appendicular   |
+| Phalanges          | Appendicular   |
+| Cervical vertebrae | Axial          |
+| Cranium            | Axial          |
+| Scapula            | Appendicular   |
 
----
+------------------------------------------------------------------------
 
 ## **Table 6.3 – Bone Classification Based on Shape**
 
-| Classification | Features | Examples |
-|---|---|---|
-| Long | Longer than wide | Femur, humerus |
-| Short | Roughly cube-shaped | Carpals, tarsals |
-| Flat | Thin and curved | Sternum, ribs |
-| Irregular | Complex shape | Vertebrae |
-| Sesamoid | Embedded in tendons | Patella |
+| Classification | Features            | Examples         |
+|----------------|---------------------|------------------|
+| Long           | Longer than wide    | Femur, humerus   |
+| Short          | Roughly cube-shaped | Carpals, tarsals |
+| Flat           | Thin and curved     | Sternum, ribs    |
+| Irregular      | Complex shape       | Vertebrae        |
+| Sesamoid       | Embedded in tendons | Patella          |
 
----
+------------------------------------------------------------------------
 
 ## **Lab Activity 6.3**
 
 **Major differences between compact and spongy bone:**
 
-- Compact bone is dense and organized into osteons
-- Spongy bone is porous, arranged in trabeculae, and contains marrow spaces
+-   Compact bone is dense and organized into osteons
+-   Spongy bone is porous, arranged in trabeculae, and contains marrow spaces
 
----
+------------------------------------------------------------------------
 
 ## **Post Lab Activity 6.1 – Crossword Answers**
 
 ### Bone Features
-- Across:  
-4 Head  
-6 Process  
-7 Trochanter  
-8 Spine  
 
-- Down:  
-1 Fissure  
-2 Facet  
-3 Crest line  
-5 Epicondyle  
+-   Across:\
+    4 Head\
+    6 Process\
+    7 Trochanter\
+    8 Spine
+
+-   Down:\
+    1 Fissure\
+    2 Facet\
+    3 Crest line\
+    5 Epicondyle
 
 ### Bone Structure
-- Across:  
-6 Osteons, Haversian canals  
-7 Perforating canal  
 
-- Down:  
-1 Osteocytes  
-2 Blastocyte  
-3 Canaliculi  
-4 Osteoclasts  
-5 Osteoblasts  
+-   Across:\
+    6 Osteons, Haversian canals\
+    7 Perforating canal
 
----
+-   Down:\
+    1 Osteocytes\
+    2 Blastocyte\
+    3 Canaliculi\
+    4 Osteoclasts\
+    5 Osteoblasts
+
+------------------------------------------------------------------------
 
 ## **Post Lab Activity 6.2 – Matching**
 
-| # | Correct Answer |
-|---|---|
-| 1 | d |
-| 2 | e |
-| 3 | h |
-| 4 | i |
-| 5 | g |
-| 6 | b |
-| 7 | j |
-| 8 | f |
-| 9 | a |
-| 10 | c |
+| \#  | Correct Answer |
+|-----|----------------|
+| 1   | d              |
+| 2   | e              |
+| 3   | h              |
+| 4   | i              |
+| 5   | g              |
+| 6   | b              |
+| 7   | j              |
+| 8   | f              |
+| 9   | a              |
+| 10  | c              |
 
----
+------------------------------------------------------------------------
 
 ## **Post Lab Activity 6.3 – Labeling**
 
 Structures labeled on compact bone diagram:
 
-- Periosteum
-- Compact bone
-- Spongy bone
-- Trabeculae
-- Medullary cavity
-- Red marrow
-- Yellow marrow
-- Osteon
-- Central (Haversian) canal
-- Canaliculi
-- Lacunae
-``
+-   Periosteum
+-   Compact bone
+-   Spongy bone
+-   Trabeculae
+-   Medullary cavity
+-   Red marrow
+-   Yellow marrow
+-   Osteon
+-   Central (Haversian) canal
+-   Canaliculi
+-   Lacunae \`\`
