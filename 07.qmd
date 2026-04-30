@@ -4,188 +4,188 @@
 
 At the conclusion of this lab, you should be able to:
 
-- Define a joint (articulation).
-- Classify joints by structure and by function.
-- Identify and describe fibrous, cartilaginous, and synovial joints.
-- Identify the components of a synovial joint.
-- Describe and demonstrate common joint movements.
-- Identify examples of each joint type in the human body.
+-   Define a joint (articulation).
+-   Classify joints by structure and by function.
+-   Identify and describe fibrous, cartilaginous, and synovial joints.
+-   Identify the components of a synovial joint.
+-   Describe and demonstrate common joint movements.
+-   Identify examples of each joint type in the human body.
 
----
+------------------------------------------------------------------------
 
 ## **Prelab Activity 7.1 – Definitions**
 
 ### **General Joint Terms**
 
-- Articulation (joint) – site where two or more bones meet  
-- Ligament – connective tissue that connects bone to bone  
-- Tendon – connective tissue that connects muscle to bone  
-- Bursa – fluid‑filled sac that reduces friction around joints  
-- Meniscus – fibrocartilage pad that improves fit between bones  
+-   Articulation (joint) – site where two or more bones meet\
+-   Ligament – connective tissue that connects bone to bone\
+-   Tendon – connective tissue that connects muscle to bone\
+-   Bursa – fluid‑filled sac that reduces friction around joints\
+-   Meniscus – fibrocartilage pad that improves fit between bones
 
----
+------------------------------------------------------------------------
 
 ### **Structural Classification of Joints**
 
-- **Fibrous joints** – bones joined by dense fibrous connective tissue; no joint cavity  
-- **Cartilaginous joints** – bones joined by cartilage; no joint cavity  
-- **Synovial joints** – bones separated by a fluid‑filled joint cavity  
+-   **Fibrous joints** – bones joined by dense fibrous connective tissue; no joint cavity\
+-   **Cartilaginous joints** – bones joined by cartilage; no joint cavity\
+-   **Synovial joints** – bones separated by a fluid‑filled joint cavity
 
----
+------------------------------------------------------------------------
 
 ### **Functional Classification of Joints**
 
-- **Synarthrosis** – immovable joint  
-- **Amphiarthrosis** – slightly movable joint  
-- **Diarthrosis** – freely movable joint  
+-   **Synarthrosis** – immovable joint\
+-   **Amphiarthrosis** – slightly movable joint\
+-   **Diarthrosis** – freely movable joint
 
----
+------------------------------------------------------------------------
 
 ## **Types of Joints**
 
 ### **Fibrous Joints**
 
-- Suture – immovable joint between skull bones  
-- Syndesmosis – bones joined by a ligament (e.g., tibia–fibula)  
-- Gomphosis – tooth anchored in alveolus  
+-   Suture – immovable joint between skull bones\
+-   Syndesmosis – bones joined by a ligament (e.g., tibia–fibula)\
+-   Gomphosis – tooth anchored in alveolus
 
 ### **Cartilaginous Joints**
 
-- Synchondrosis – joint united by hyaline cartilage (epiphyseal plate)  
-- Symphysis – joint united by fibrocartilage (pubic symphysis)  
+-   Synchondrosis – joint united by hyaline cartilage (epiphyseal plate)\
+-   Symphysis – joint united by fibrocartilage (pubic symphysis)
 
 ### **Synovial Joints**
 
-- Plane (gliding)  
-- Hinge  
-- Pivot  
-- Condyloid (ellipsoid)  
-- Saddle  
-- Ball‑and‑socket  
+-   Plane (gliding)\
+-   Hinge\
+-   Pivot\
+-   Condyloid (ellipsoid)\
+-   Saddle\
+-   Ball‑and‑socket
 
----
+------------------------------------------------------------------------
 
 ## **Prelab Activity 7.2 – Synovial Joint Structure**
 
 ### **Components of a Synovial Joint**
 
-| Structure | Function |
-|---|---|
-| Articular cartilage | Reduces friction |
-| Synovial cavity | Contains synovial fluid |
-| Synovial fluid | Lubricates and nourishes cartilage |
-| Joint capsule | Encloses the joint |
-| Fibrous capsule | Provides strength |
-| Synovial membrane | Produces synovial fluid |
-| Ligaments | Stabilize joint |
-| Bursa | Reduces friction |
-| Meniscus | Improves joint fit |
+| Structure           | Function                           |
+|---------------------|------------------------------------|
+| Articular cartilage | Reduces friction                   |
+| Synovial cavity     | Contains synovial fluid            |
+| Synovial fluid      | Lubricates and nourishes cartilage |
+| Joint capsule       | Encloses the joint                 |
+| Fibrous capsule     | Provides strength                  |
+| Synovial membrane   | Produces synovial fluid            |
+| Ligaments           | Stabilize joint                    |
+| Bursa               | Reduces friction                   |
+| Meniscus            | Improves joint fit                 |
 
----
+------------------------------------------------------------------------
 
 ## **Lab Activity 7.1 – Structural vs Functional Classification**
 
-| Joint | Structural Type | Functional Type |
-|---|---|---|
-| Skull sutures | Fibrous | Synarthrosis |
-| Pubic symphysis | Cartilaginous | Amphiarthrosis |
-| Shoulder | Synovial | Diarthrosis |
-| Elbow | Synovial | Diarthrosis |
-| Epiphyseal plate | Cartilaginous | Synarthrosis |
+| Joint            | Structural Type | Functional Type |
+|------------------|-----------------|-----------------|
+| Skull sutures    | Fibrous         | Synarthrosis    |
+| Pubic symphysis  | Cartilaginous   | Amphiarthrosis  |
+| Shoulder         | Synovial        | Diarthrosis     |
+| Elbow            | Synovial        | Diarthrosis     |
+| Epiphyseal plate | Cartilaginous   | Synarthrosis    |
 
----
+------------------------------------------------------------------------
 
 ## **Lab Activity 7.2 – Synovial Joint Types**
 
-| Joint Type | Description | Example |
-|---|---|---|
-| Plane | Flat surfaces slide | Intercarpal joints |
-| Hinge | Flexion/extension only | Elbow |
-| Pivot | Rotation around axis | Atlas–axis |
-| Condyloid | Oval surface in depression | Wrist |
-| Saddle | Saddle‑shaped surfaces | Thumb (CMC joint) |
-| Ball‑and‑socket | Multiaxial movement | Shoulder, hip |
+| Joint Type      | Description                | Example            |
+|-----------------|----------------------------|--------------------|
+| Plane           | Flat surfaces slide        | Intercarpal joints |
+| Hinge           | Flexion/extension only     | Elbow              |
+| Pivot           | Rotation around axis       | Atlas–axis         |
+| Condyloid       | Oval surface in depression | Wrist              |
+| Saddle          | Saddle‑shaped surfaces     | Thumb (CMC joint)  |
+| Ball‑and‑socket | Multiaxial movement        | Shoulder, hip      |
 
----
+------------------------------------------------------------------------
 
 ## **Joint Movements**
 
 ### **Angular Movements**
 
-- Flexion – decreases joint angle  
-- Extension – increases joint angle  
-- Hyperextension – extension beyond normal  
-- Abduction – movement away from midline  
-- Adduction – movement toward midline  
-- Circumduction – circular movement  
+-   Flexion – decreases joint angle\
+-   Extension – increases joint angle\
+-   Hyperextension – extension beyond normal\
+-   Abduction – movement away from midline\
+-   Adduction – movement toward midline\
+-   Circumduction – circular movement
 
 ### **Rotation and Special Movements**
 
-- Rotation – bone turns around its axis  
-- Supination – palm facing anteriorly  
-- Pronation – palm facing posteriorly  
-- Dorsiflexion – toes move upward  
-- Plantar flexion – toes point downward  
-- Inversion – sole turns inward  
-- Eversion – sole turns outward  
-- Elevation – movement superiorly  
-- Depression – movement inferiorly  
+-   Rotation – bone turns around its axis\
+-   Supination – palm facing anteriorly\
+-   Pronation – palm facing posteriorly\
+-   Dorsiflexion – toes move upward\
+-   Plantar flexion – toes point downward\
+-   Inversion – sole turns inward\
+-   Eversion – sole turns outward\
+-   Elevation – movement superiorly\
+-   Depression – movement inferiorly
 
----
+------------------------------------------------------------------------
 
 ## **Lab Activity 7.3 – Identify Movements**
 
-| Movement | Example |
-|---|---|
-| Flexion | Bending the elbow |
-| Extension | Straightening the knee |
-| Abduction | Raising arm laterally |
-| Adduction | Lowering arm |
-| Rotation | Turning head |
-| Circumduction | Arm circles |
-| Pronation | Palm down |
-| Supination | Palm up |
+| Movement      | Example                |
+|---------------|------------------------|
+| Flexion       | Bending the elbow      |
+| Extension     | Straightening the knee |
+| Abduction     | Raising arm laterally  |
+| Adduction     | Lowering arm           |
+| Rotation      | Turning head           |
+| Circumduction | Arm circles            |
+| Pronation     | Palm down              |
+| Supination    | Palm up                |
 
----
+------------------------------------------------------------------------
 
 ## **Post Lab Activity 7.1 – Concept Questions**
 
-- **What is a joint?**  
-  A joint is a site where two or more bones meet.
+-   **What is a joint?**\
+    A joint is a site where two or more bones meet.
 
-- **Which joints are freely movable?**  
-  Synovial joints.
+-   **Which joints are freely movable?**\
+    Synovial joints.
 
-- **Which joint type allows the greatest range of motion?**  
-  Ball‑and‑socket joint.
+-   **Which joint type allows the greatest range of motion?**\
+    Ball‑and‑socket joint.
 
----
+------------------------------------------------------------------------
 
 ## **Post Lab Activity 7.2 – Matching**
 
-| Term | Match |
-|---|---|
-| Sutures | Fibrous joint |
+| Term            | Match               |
+|-----------------|---------------------|
+| Sutures         | Fibrous joint       |
 | Pubic symphysis | Cartilaginous joint |
-| Shoulder | Ball‑and‑socket |
-| Elbow | Hinge |
-| Atlas‑axis | Pivot |
-| Wrist | Condyloid |
+| Shoulder        | Ball‑and‑socket     |
+| Elbow           | Hinge               |
+| Atlas‑axis      | Pivot               |
+| Wrist           | Condyloid           |
 
----
+------------------------------------------------------------------------
 
 ## **Post Lab Activity 7.3 – Fill in the Blanks**
 
-- The three structural classifications of joints are **fibrous**, **cartilaginous**, and **synovial**.  
-- Freely movable joints are called **diarthroses**.  
-- Synovial fluid is produced by the **synovial membrane**.  
-- Ligaments connect **bone to bone**.  
+-   The three structural classifications of joints are **fibrous**, **cartilaginous**, and **synovial**.\
+-   Freely movable joints are called **diarthroses**.\
+-   Synovial fluid is produced by the **synovial membrane**.\
+-   Ligaments connect **bone to bone**.
 
----
+------------------------------------------------------------------------
 
 ## **Summary**
 
-- Joints allow movement and stability.
-- Synovial joints are the most complex and movable.
-- Joint structure determines joint function.
-- Proper joint anatomy is essential for locomotion and posture.
+-   Joints allow movement and stability.
+-   Synovial joints are the most complex and movable.
+-   Joint structure determines joint function.
+-   Proper joint anatomy is essential for locomotion and posture.
